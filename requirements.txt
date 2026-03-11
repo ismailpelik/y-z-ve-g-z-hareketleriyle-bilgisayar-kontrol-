@@ -1,0 +1,11 @@
+
+opencv-python
+mediapipe
+pyautogui
+speechrecognition
+pyaudio
+numpy
+scikit-learn==1.6.1
+setuptools==75.1.0
+PyQt5
+Pillow
